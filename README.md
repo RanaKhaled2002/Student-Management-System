@@ -98,3 +98,7 @@ Sample CSV/Excel templates are included for:
 3. Run migrations:
 
 
+## Project Documention
+- https://www.postman.com/navigation-geoscientist-26997479/projects/collection/dmgmtae/student-management-system?action=share&creator=31992113
+
+
